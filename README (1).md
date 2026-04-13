@@ -1,7 +1,7 @@
 # SeismoAI IO Module
 
 ## Team Members
-- Your Name
+- mahrukh
 - Partner Name
 
 ## Description
