@@ -3,6 +3,7 @@
 ## Team Members
 - mahrukh
 - mashaim hanif
+- fiza rashid
 
 ## Description
 This module loads and preprocesses SGY seismic files.
