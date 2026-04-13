@@ -2,7 +2,7 @@
 
 ## Team Members
 - mahrukh
-- Partner Name
+- mashaim hanif
 
 ## Description
 This module loads and preprocesses SGY seismic files.
@@ -16,4 +16,6 @@ This module loads and preprocesses SGY seismic files.
 python test_io.py
 md
 Updated by partner: Fiza Rashid
+md
+updated by partner:Mashaim hanif
  
