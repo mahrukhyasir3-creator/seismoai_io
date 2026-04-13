@@ -15,5 +15,6 @@ This module loads and preprocesses SGY seismic files.
 ## Run Test
 python test_io.py
 md
-Updated by partner: Fiza Rashid,Mashaim hanif
+Updated by partner: Fiza Rashid,
+Mashaim hanif
  
